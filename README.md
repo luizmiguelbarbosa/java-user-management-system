@@ -38,7 +38,7 @@ Through the development of this CRUD system, significant improvements were made 
 
 <pre>
 src/
- └── Main.java        # Application entry point
+ └── Main.java        
 </pre>
 
 <hr>
