@@ -1,15 +1,15 @@
 <h1 align="center">
-  Java User Management System ☕👥
+  Sistema de Gerenciamento de Usuários em Java ☕👥
 </h1>
 
 <p align="center">
-  A simple Java CRUD project focused on strengthening backend fundamentals,
-  including arrays, control flow, and method organization.
+  Um projeto CRUD simples em Java, desenvolvido para fortalecer fundamentos de backend,
+  incluindo arrays, estruturas de controle e organização de métodos.
 </p>
 
 <hr>
 
-<h2>👨‍💻 Developer</h2>
+<h2>👨‍💻 Desenvolvedor</h2>
 
 <p align="center">
   <a href="https://github.com/luizmiguelbarbosa">
@@ -21,94 +21,97 @@
 
 <hr>
 
-<h2>📖 Description</h2>
+<h2>📖 Descrição</h2>
 
 <p>
-This project was built as part of foundational backend training, focusing on core Java concepts without Object-Oriented Programming.
+Este projeto foi desenvolvido como parte de um treinamento dos fundamentos de backend,
+com foco nos conceitos básicos da linguagem Java, sem a utilização de Programação Orientada a Objetos.
 </p>
 
 <p>
-The main goal was to improve logical structuring, function organization, and data manipulation using arrays.
-Through the development of this CRUD system, significant improvements were made in code architecture, control flow, and array handling.
+O principal objetivo foi aprimorar a estruturação lógica, a organização de funções e a manipulação de dados utilizando arrays.
+Por meio do desenvolvimento deste sistema CRUD, foram desenvolvidas habilidades em arquitetura de código,
+estruturas de controle e manipulação de arrays.
 </p>
 
 <hr>
 
-<h2>📁 Folder Structure</h2>
+<h2>📁 Estrutura de Pastas</h2>
 
 <pre>
 src/
- └── Main.java        
+ └── Main.java
 </pre>
 
 <hr>
 
-<h2>📚 Libraries Used</h2>
+<h2>📚 Bibliotecas Utilizadas</h2>
 
 <pre>
-Java Standard Library
+Biblioteca Padrão do Java
 java.util.Scanner
 </pre>
 
 <hr>
 
-<h2>📊 Project Task Distribution</h2>
+<h2>📊 Distribuição das Tarefas do Projeto</h2>
 
 <table>
 <tr>
-  <th>Developer</th>
-  <th>Tasks</th>
+  <th>Desenvolvedor</th>
+  <th>Tarefas</th>
 </tr>
 <tr>
   <td>Luiz Miguel Barbosa</td>
   <td>
-    Implemented full CRUD logic, user storage using arrays,
-    input handling with Scanner, and modular function organization.
+    Implementação completa da lógica CRUD, armazenamento de usuários utilizando arrays,
+    tratamento de entradas com Scanner e organização modular das funções.
   </td>
 </tr>
 </table>
 
 <hr>
 
-<h2>🚀 How to Run</h2>
+<h2>🚀 Como Executar</h2>
 
 <pre>
 1. Compile:
    javac Main.java
 
-2. Run:
+2. Execute:
    java Main
 </pre>
 
 <hr>
 
-<h2>🧠 Concepts Used</h2>
+<h2>🧠 Conceitos Utilizados</h2>
 
 <p>
-• Arrays for data storage<br>
-• Control flow (if/else, loops)<br>
-• Method modularization<br>
-• Input handling with Scanner<br>
-• Basic data validation
+• Arrays para armazenamento de dados<br>
+• Estruturas de controle (if/else, loops)<br>
+• Modularização por métodos<br>
+• Tratamento de entradas com Scanner<br>
+• Validação básica de dados
 </p>
 
 <hr>
 
-<h2>⚠ Challenges and Issues</h2>
+<h2>⚠ Desafios e Problemas</h2>
 
 <p>
-The biggest challenge in this project was organizing the code architecture,
-especially structuring functions in a clean and maintainable way.
+O maior desafio deste projeto foi organizar a arquitetura do código,
+especialmente na estruturação das funções de maneira limpa e fácil de manter.
 </p>
 
 <p>
-There were also difficulties with control flow and array manipulation,
-particularly when managing indexing and removal logic.
-However, this CRUD significantly improved backend fundamentals and logical thinking.
+Também houve dificuldades relacionadas às estruturas de controle e à manipulação de arrays,
+principalmente no gerenciamento de índices e na lógica de remoção de usuários.
+Entretanto, o desenvolvimento deste CRUD contribuiu significativamente para o fortalecimento
+dos fundamentos de backend e do raciocínio lógico.
 </p>
 
 <hr>
 
 <p align="center">
-Developed by Luiz Miguel Barbosa
+Desenvolvido por Luiz Miguel Barbosa
 </p>
